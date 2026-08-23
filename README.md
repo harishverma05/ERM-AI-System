@@ -1,0 +1,1 @@
+🚨 Emergency Response App (ERA)A full-stack, AI-powered emergency management and dispatch system. This platform integrates a React frontend dashboard with an intelligent FastAPI/Python backend that leverages predictive ML models (classifier.pkl and lstm_model.h5) to classify incident severity and forecast resource allocation for real-time dispatching.
